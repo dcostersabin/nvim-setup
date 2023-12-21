@@ -6,6 +6,6 @@ autocmd VimEnter * :TSUpdate
 
 autocmd VimEnter * :TSEnable highlight
 
-autocmd VimEnter * :colorscheme my-scheme
+autocmd VimEnter * :colorscheme onedark_dark
 
 autocmd VimEnter * :TSEnable indent

@@ -57,5 +57,6 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' 
 "Git Blame
 Plug  'FabijanZulj/blame.nvim'
 
+Plug  'olimorris/onedarkpro.nvim',
 call plug#end()
 
