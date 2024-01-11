@@ -58,5 +58,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && npx --yes yarn install' 
 Plug  'FabijanZulj/blame.nvim'
 
 Plug  'olimorris/onedarkpro.nvim',
+
+" comment
+Plug 'numToStr/Comment.nvim',
 call plug#end()
 

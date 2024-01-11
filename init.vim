@@ -12,6 +12,7 @@ require("autoclose-config")
 require("git-blame-config")
 require("harpoon-config")
 require("one-dark-pro-config")
+require("vim-comment")
 EOF
 
 
