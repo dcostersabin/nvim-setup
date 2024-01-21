@@ -48,7 +48,6 @@ Plug 'L3MON4D3/LuaSnip', {'tag': 'v2.*', 'do': 'make install_jsregexp'}
 Plug 'rafamadriz/friendly-snippets'
 Plug 'VonHeikemen/lsp-zero.nvim'
 " LSP
-Plug 'VonHeikemen/lsp-zero.nvim', {'branch': 'v3.x'}
 Plug 'm4xshen/autoclose.nvim'
 
 " Markdown preview
@@ -61,5 +60,10 @@ Plug  'olimorris/onedarkpro.nvim',
 
 " comment
 Plug 'numToStr/Comment.nvim',
+
+Plug 'WhoIsSethDaniel/mason-tool-installer.nvim'
+
+Plug 'mfussenegger/nvim-lint'
+
 call plug#end()
 

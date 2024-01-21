@@ -13,6 +13,7 @@ require("git-blame-config")
 require("harpoon-config")
 require("one-dark-pro-config")
 require("vim-comment")
+require("nvim-lint-config")
 EOF
 
 
