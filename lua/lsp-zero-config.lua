@@ -87,7 +87,6 @@ require("mason-lspconfig").setup({
 		"prismals",
 		-- "pyright",
 		"pylsp",
-		"black",
 	},
 	automatic_installation = true,
 	handlers = {
