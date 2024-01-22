@@ -38,7 +38,7 @@ cmp.setup({
 	}),
 })
 
-lsp.on_attach(function(client, bufnr)
+local on_attach = lsp.on_attach(function(client, bufnr)
 	local opts = { buffer = bufnr, remap = false }
 
 	vim.keymap.set("n", "gd", function()
