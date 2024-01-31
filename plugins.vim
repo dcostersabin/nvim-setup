@@ -71,5 +71,7 @@ Plug 'nvim-tree/nvim-web-devicons'
 
 Plug 'stevearc/oil.nvim'
 
+Plug 'norcalli/nvim-colorizer.lua'
+
 call plug#end()
 

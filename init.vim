@@ -17,6 +17,7 @@ require("nvim-lint-config")
 require("nvim-web-devicons-config")
 require("oil").setup()
 require('leap').create_default_mappings()
+require'colorizer'.setup()
 EOF
 
 
