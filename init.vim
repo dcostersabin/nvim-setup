@@ -14,6 +14,9 @@ require("harpoon-config")
 require("one-dark-pro-config")
 require("vim-comment")
 require("nvim-lint-config")
+require("nvim-web-devicons-config")
+require("oil").setup()
+require('leap').create_default_mappings()
 EOF
 
 

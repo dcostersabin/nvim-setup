@@ -65,5 +65,11 @@ Plug 'WhoIsSethDaniel/mason-tool-installer.nvim'
 
 Plug 'mfussenegger/nvim-lint'
 
+Plug 'ggandor/leap.nvim'
+
+Plug 'nvim-tree/nvim-web-devicons'
+
+Plug 'stevearc/oil.nvim'
+
 call plug#end()
 
